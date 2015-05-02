@@ -1,0 +1,180 @@
+[repos/golang]
+checkout = git clone git://anonscm.debian.org/pkg-golang/golang.git
+
+[repos/golang-barcode]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-barcode.git
+
+[repos/golang-bindata]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-bindata.git
+
+[repos/golang-blackfriday]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-blackfriday.git
+
+[repos/golang-codegangsta-cli]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-codegangsta-cli.git
+
+[repos/golang-context]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-context.git
+
+[repos/golang-coreos-log]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-coreos-log.git
+
+[repos/golang-dbus]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-dbus.git
+
+[repos/golang-dns]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-dns.git
+
+[repos/golang-doozer]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-doozer.git
+
+[repos/golang-ed25519-dev]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-ed25519-dev.git
+
+[repos/golang-etcd]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-etcd.git
+
+[repos/golang-ginkgo]
+checkout = git clone git://git.debian.org/collab-maint/golang-ginkgo.git
+
+[repos/golang-glog]
+checkout = git clone git://git.debian.org/collab-maint/golang-glog.git
+
+[repos/golang-gocapability-dev]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-gocapability-dev.git
+
+[repos/golang-gocheck]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-gocheck.git
+
+[repos/golang-go.crypto]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go.crypto.git
+
+[repos/golang-go-dbus]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go-dbus.git
+
+[repos/golang-godebiancontrol-dev]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-godebiancontrol-dev.git
+
+[repos/golang-go-flags]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go-flags.git
+
+[repos/golang-gogoprotobuf]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-gogoprotobuf.git
+
+[repos/golang-goleveldb]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-goleveldb.git
+
+[repos/golang-gomega]
+checkout = git clone git://git.debian.org/collab-maint/golang-gomega.git
+
+[repos/golang-go.net]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go.net.git
+
+[repos/golang-go-patricia]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go-patricia.git
+
+[repos/golang-goprotobuf]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-goprotobuf.git
+
+[repos/golang-goptlib]
+checkout = git clone https://anonscm.debian.org/git/pkg-go/packages/golang-goptlib.git
+
+[repos/golang-gosqlite]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-gosqlite.git
+
+[repos/golang-go-systemd]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go-systemd.git
+
+[repos/golang-go.tools]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go.tools.git
+
+[repos/golang-go-xdg]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-go-xdg.git
+
+[repos/golang-goyaml]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-goyaml.git
+
+[repos/golang-libgeoip]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-libgeoip.git
+
+[repos/golang-log4go]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-log4go.git
+
+[repos/golang-logrus]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-logrus.git
+
+[repos/golang-metrics]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-metrics.git
+
+[repos/golang-mreiferson-httpclient]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-mreiferson-httpclient.git
+
+[repos/golang-mux]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-mux.git
+
+[repos/golang-nzaat]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-nzaat.git
+
+[repos/golang-objx]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-objx.git
+
+[repos/golang-openldap]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-openldap.git
+
+[repos/golang-pb]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-pb.git
+
+[repos/golang-pq-dev]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-pq-dev.git
+
+[repos/golang-pretty]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-pretty.git
+
+[repos/golang-procfs]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-procfs.git/
+
+[repos/golang-protobuf-extensions]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-protobuf-extensions.git
+
+[repos/golang-pty]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-pty.git
+
+[repos/golang-raft]
+checkout = git clone git://anonscm.debian.org/users/jelmer/golang-raft.git
+
+[repos/golang-rrd]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-rrd.git
+
+[repos/golang-siphash-dev]
+checkout = git clone git://anonscm.debian.org/collab-maint/golang-siphash-dev.git
+
+[repos/golang-snappy-go]
+checkout = git clone git://git.debian.org/collab-maint/golang-snappy-go.git
+
+[repos/golang-sorcix-irc-dev]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-sorcix-irc-dev.git
+
+[repos/golang-termbox]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-termbox.git
+
+[repos/golang-testify]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-testify.git
+
+[repos/golang-text]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-text.git
+
+[repos/golang-thrift]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-thrift.git
+
+[repos/golang-toml]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-toml.git
+
+[repos/golang-uuid]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-uuid.git
+
+[repos/golang-vhost]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-vhost.git
+
+[repos/golang-websocket]
+checkout = git clone git://anonscm.debian.org/pkg-go/packages/golang-websocket.git
+
